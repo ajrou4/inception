@@ -46,17 +46,3 @@ This project focuses on system administration using Docker, where you will virtu
    - The NGINX container should be the only entry point via port 443.
 
 ---
-
-#### **Bonus Part**
-
-Additional tasks include setting up Redis cache, an FTP server, a static website, Adminer, or any other useful service. These will be evaluated only if the mandatory part is perfect.
-
----
-
-#### **Submission Guidelines**
-
-Submit your project via your Git repository. Ensure that all files are correctly named and placed as required.
-
----
-
-This README provides a comprehensive guide to your project. Ensure all steps are followed to meet the project's requirements. Good luck!
